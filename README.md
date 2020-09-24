@@ -11,8 +11,7 @@ Gradient descent algorithm is used for finding a minimum of a differentiable fun
 Kaggle: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ### Reference
-* https://course.fast.ai/videos/?lesson=8
-* https://course.fast.ai/videos/?lesson=9
+* https://github.com/fastai/course-v3
 * https://youtu.be/het9HFqo1TQ
 * Xavier Glorot, Yoshua Bengio. Understanding the difficulty of training deep feedforward neural networks,In: Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics, PMLR 9:249-256, 2010.
 
